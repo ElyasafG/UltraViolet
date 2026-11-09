@@ -1,3 +1,4 @@
+<img width="1774" height="887" alt="63f1dc6a-7293-4f3c-8dd2-0c94576d00fc" src="https://github.com/user-attachments/assets/15c440bc-54da-4acc-8da4-5f4748bf04a0" />
 # UltraViolet
 
 Purple-team CLI session recorder. Wraps a PowerShell REPL, executes what you type,
